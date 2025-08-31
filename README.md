@@ -168,17 +168,20 @@ Diferencia clave:
   - Distribución de larga cola: muchos paquetes pequeños, pocos muy grandes que concentran la mayoría del volumen.
   - La red mostró capacidad de sostener ráfagas intensas sin pérdida de datos aparente.
   - La comparación con el sistema de archivos confirma un patrón estadístico común en sistemas de información.
-
+---
 # Graficas 
 
 <img width="1252" height="712" alt="image" src="https://github.com/user-attachments/assets/35f606bf-9091-4df1-a9e6-67ac35ee67b1" />
 Escala de paquetes en el tiempo
 
+---
 <img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/44732e98-52e1-4aa9-9307-bc8f86953935" />
 Frecuencia relativa de tamaños de paquiete
 
+---
 <img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/fe136f11-9747-4ec6-b3eb-93c23e0d0497" />
 Frecuencia relativa de tiempos dentre arribos
 
+---
 <img width="1252" height="712" alt="image" src="https://github.com/user-attachments/assets/6d9e4d81-5daa-41d3-9327-5f132cd6bd2b" />
 Serie temporal de bytes por segundo
