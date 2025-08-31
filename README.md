@@ -28,4 +28,4 @@ Este proyecto es **únicamente con fines educativos y de investigación personal
     ```
 # Captura de tráfico
 
-El script paquetesred.ps1 captura estadísticas de red cada segundo durante 10 minutos y las guarda en formato JSONL.
+El script [paquetesred.ps1](Analisis%20de%20trafico/paquetesred.ps1 captura estadísticas de red cada segundo durante 10 minutos y las guarda en formato JSONL.
